@@ -1,0 +1,12 @@
+### app base url to ensure working
+GET  http://localhost:4040  HTTP/1.1
+
+### register user
+POST   http://localhost:4040/user/register  HTTP/1.1
+Content-Type:application/json
+
+
+{
+     
+  
+}
